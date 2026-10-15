@@ -1,0 +1,16 @@
+goos: linux
+goarch: amd64
+pkg: logstats
+cpu: AMD Ryzen 9 9950X 16-Core Processor            
+BenchmarkCount5xx-32    	    8788	    137665 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8754	    140018 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8738	    139148 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8790	    137141 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8644	    140348 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8613	    139078 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8680	    138539 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8787	    137478 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8599	    137419 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCount5xx-32    	    8421	    139204 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	logstats	12.046s
